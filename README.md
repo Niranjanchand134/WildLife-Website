@@ -9,3 +9,5 @@ The website is designed to engage users visually while delivering important cont
 * Image Gallery
 * About & Contact Sections
 * Donation Call-to-Action (CTA)
+
+![alt text](image.png)
